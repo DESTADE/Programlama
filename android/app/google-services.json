@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192372253036",
+    "project_id": "programlama-cdb41",
+    "storage_bucket": "programlama-cdb41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192372253036:android:3a8d4dbbd2dce2a04ed349",
+        "android_client_info": {
+          "package_name": "com.example.programlama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVO2YK0u30BdRCbESrpInSUTn43IH_oxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
